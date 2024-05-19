@@ -25,8 +25,8 @@
     "price": 0
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_380_Athena_Commando_F_DarkViking_Fire"],
-    "price": 1500
+    "itemGrants": ["AthenaCharacter:CID_116_Athena_Commando_M_CarbideBlack"],
+    "price": 0
   },
   "featured2": {
     "itemGrants": ["AthenaGlider:Glider_ID_134_DarkVikingFire"],
