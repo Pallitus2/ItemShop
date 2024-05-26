@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaGlider:Glider_ID_084_Plague"],
+    "itemGrants": ["AthenaGlider:Glider_ID_090_Celestial"],
     "price": 800
   },
   "daily2": {
-    "itemGrants": ["AthenaDance:EID_Zombie"],
-    "price": 800
+    "itemGrants": ["AthenaDance:EID_CycloneHeadBang"],
+    "price": 500
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Umbrella_Season_06"],
-    "price": 200
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_116_Celestial"],
+    "price": 800
   },
   "daily4": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_140_StreetGoth"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_294_CandyCane"],
     "price": 800
   },
   "daily5": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_111_BlackWidow"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_376_FNCS"],
     "price": 800
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_255_Athena_Commando_F_HalloweenBunny"],
+    "itemGrants": ["AthenaCharacter:CID_699_Athena_Commando_F_BrokenHeart"],
     "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_258_Athena_Commando_F_FuzzyBearHalloween"],
-    "price": 1500
-  },
-  "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_246_Athena_Commando_F_Grave"],
+    "itemGrants": ["AthenaCharacter:CID_753_Athena_Commando_F_Hostile"],
     "price": 1200
   },
+  "featured2": {
+    "itemGrants": ["AthenaCharacter:CID_744_Athena_Commando_F_DuckHero"],
+    "price": 800
+  },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_249_Athena_Commando_F_BlackWidow"],
-    "price": 2000
+    "itemGrants": ["AthenaCharacter:CID_642_Athena_Commando_F_ConstellationStar"],
+    "price": 1500
   }
 }
